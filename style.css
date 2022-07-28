@@ -1,0 +1,14 @@
+*{
+	margin:0;
+	padding:0;
+}
+.menu ul li a{
+	color:#777777;
+	font-size:20px;
+}
+.register button{
+	font-size: 18px;
+    font-weight: bold;
+    padding: 12px 30px;
+	color:#289BDE;
+}
