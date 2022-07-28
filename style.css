@@ -89,3 +89,55 @@
 	color:#289BDE;
 	background-color:#ffffff;
 }
+#footer{
+	background-color:#161616;
+}
+.footer-area {
+	text-align:center;
+}
+.footer-area h2{
+	color:#ffffff;
+}
+.footer-area p{
+	color:#BFBFBF;
+}
+.footer-link li a{
+	color:#BFBFBF;
+}
+
+@media screen and (min-width:200px) and (max-width:575px){
+	.section-header .courses-header {
+		padding: 0;
+	}
+	.section-header p{
+		padding: 0 20px;
+	}
+	.explore-content-info h3 {
+		font-size: 24px;
+	}
+}
+@media screen and (min-width:576px) and (max-width:767px){
+	.section-header .courses-header {
+		padding: 0;
+	}
+	.section-header p{
+		padding: 0 50px;
+	}
+	.explore-content-info h3 {
+		font-size: 30px;
+	}
+}
+@media screen and (min-width:768px) and (max-width:991px){
+	.section-header .courses-header {
+		padding: 0;
+	}
+	.section-header p{
+		padding: 0 200px;
+	}
+	.explore-content-info h3 {
+		font-size: 30px;
+	}
+	.register {
+		margin-left: 375px;
+	}
+}
