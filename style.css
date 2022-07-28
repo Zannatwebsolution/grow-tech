@@ -12,3 +12,27 @@
     padding: 12px 30px;
 	color:#289BDE;
 }
+.carousel-item img {
+    height: 80vh;
+}
+.section-header .courses-header{
+	padding: 0 400px;
+}
+.section-header h2{
+	font-size:36px;
+	font-weight:bold;
+	color:#1D1D1D;
+}
+.section-header p{
+	padding: 0 350px;
+	color:#777777;
+	font-size:16px;
+}
+.course{
+	border: 1px solid #e3e3e3;
+    border-radius: 8px;
+}
+.course-info h2{
+	font-size:22px;
+	font-weight:bold;
+}
